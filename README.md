@@ -6,3 +6,6 @@ In June-July 2020, my team of two software engineers, a UX designer, a PM, and I
 I developed the front and back-end using JavaScript, React, and Firebase. 
 Due to security and privacy reasons that involves users' personal email addresses and names, we decided not to deploy the application until we could ensure security. 
 I've added pictures from our localhost to this repo to show our work instead! 
+
+
+[See some of our code HERE!](https://github.com/swedaz/sophrosyne)
